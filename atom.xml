@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-30T14:07:16.960Z</updated>
+  <updated>2016-03-30T14:30:55.632Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,69 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2016/03/30/hello-world/"/>
-    <id>http://yoursite.com/2016/03/30/hello-world/</id>
-    <published>2016-03-30T14:07:16.960Z</published>
-    <updated>2016-03-30T14:07:16.960Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>感悟</title>
-    <link href="http://yoursite.com/2015/11/27/e6-84-9f-e6-82-9f/"/>
-    <id>http://yoursite.com/2015/11/27/e6-84-9f-e6-82-9f/</id>
-    <published>2015-11-26T16:08:25.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
-    
-    <content type="html">&lt;p&gt;已经很久都没有更新过博客了，之前一直想要写一篇长文章，后来就一直拖着。从年前一直拖到了过完了年，然后又拖到了下学期期末，最后过了暑假似乎都没有机会。这次，突然来机会了，因为突然一门课程需要写一份2000+字以上的未来的规划。哈哈，于是就当做博客文章来写吧。&lt;/p&gt;
-&lt;h3 id=&quot;过去的大一&quot;&gt;&lt;a href=&quot;#过去的大一&quot; class=&quot;headerlink&quot; title=&quot;过去的大一&quot;&gt;&lt;/a&gt;过去的大一&lt;/h3&gt;&lt;p&gt;很快，真的很快，竟然两年的时间就已经过去了，似乎昨天还是大一的入学。8月的尾巴上面，四个愣头愣脑的家伙跑去无锡参赛，以决赛资格倒数第三名的身份跑过去，自己心里也没底，去之前和老罗差点都吵了起来，但是最后还是抱着没拿到奖就当做是旅游的态度去了。最后结果的国一确实有点意外。总是觉着生活的意外总是很多，但是和某人说的那样，并不是很难。项目中能够说的也多少，参赛的最大的感受就是行业最需要的就是创新，当然我们在做一个东西的时候，我们需要把东西做的就尽可能完美。&lt;/p&gt;
-&lt;p&gt;9月初急急忙忙从上海回来后，不得不承认的事实就是发现自己已经大三了。老罗早在8月份参加过了一次面试笔试，看着他们找工作，仿佛就看到了一年后的自己。&lt;/p&gt;
-&lt;p&gt;回望过去的两年确实发生了很多事。两年前，自己觉得自己懂很多。问自己想怎么走，回答先看看吧。觉得自己或许可以科研，至少考个研究生吧，后来发现自己高数却很吃力，英语也很吃力。总是觉得未来要改变世界，最后发现自己都改变不了。以及记不起什么时候突然想着要转专业了。去电气，听说工科的都转去那了？记得那天大早上打电话给老姐，我问她现在头脑清晰吗？最后他说，去一个自己感兴趣的行业，以后自己会有动力的。于是，最后拿着两张都填好的申请表，去了理科楼。&lt;/p&gt;
-&lt;h3 id=&quot;过去的大二&quot;&gt;&lt;a href=&quot;#过去的大二&quot; class=&quot;headerlink&quot; title=&quot;过去的大二&quot;&gt;&lt;/a&gt;过去的大二&lt;/h3&gt;&lt;p&gt;一个只学过Pascal和Frotran的人去直接学习数据结构是一种怎样的体验？更加关键的是C语言也学的半吊子，于是你发现把时间全部集中在了如何解决C语言的基础问题上，结果可想而知，就感觉数据结构没学过一样体验。模电、数电、数据库、计算机网络、软件工程，当然还要补上C和C++，还有自己看了一些Java，下学期的Web开发倒是见识了一些东西。记得上次在知乎上mu peng说，学习就是一个从模糊逐渐开始清晰的过程，开始胡乱塞给自己一些东西，然后这儿学点，那儿学点，以后自己看到了一些全局的东西，慢慢的整个轮廓就清晰了。Web开发到好像是这样，从自己开始建博客站点，到真正明白了前后端的工作原理后，发现就是这样。实验室氛围让我感觉很好了，所有的小伙伴都为了一件有趣的事情而聚在了一起。生活总是把一些有趣的东西聚合到了一起。&lt;/p&gt;
-&lt;h3 id=&quot;现在&quot;&gt;&lt;a href=&quot;#现在&quot; class=&quot;headerlink&quot; title=&quot;现在&quot;&gt;&lt;/a&gt;现在&lt;/h3&gt;&lt;p&gt;一直没有任何方向的学习。于是，语言方面，PHP会一点，Java也会一点，Python还能写上几个能跑的算法，C语言遇到指针就有点头疼，C++完全就是在写C的升级版程序，只是用的全是cin和cout，HTML和CSS总是觉得自己写的有点问题，但是不知道问题出在哪里，或许现在前端已经很少有什么纯写HTML和CSS的了，JavaScript好像也会一点，可是一旦高级一点的又不会了。计算机网络感觉都看的很好，数据库SQL语句倒是可以写上那个几句，软件工程感觉没有写过上万行代码和自己设计过什么系统级的东西真真体会不出来。自己鼓捣了很久的Linux，后来发现除了那几个常见的命令，其他的全忘了。&lt;/p&gt;
-&lt;h3 id=&quot;未来&quot;&gt;&lt;a href=&quot;#未来&quot; class=&quot;headerlink&quot; title=&quot;未来&quot;&gt;&lt;/a&gt;未来&lt;/h3&gt;&lt;p&gt;想了很久，确实需要给自己定一个方向了。以前还觉得要奔着全栈工程师去，现在来看确实太过于遥远了。真的要做好一个方向确实已经很不容易了。对于我而言，全栈只是理想了，能够把一个做到比较好都是需要很多时间的。&lt;/p&gt;
-&lt;p&gt;开始还在观望要不要考研，别人一问，总是回答，还在考虑吧。现在来看，时间上基本要开始也得开始了。分析来看，自己不想在把时间花在某些政治课程上，同时复习一些高数、英语这些课程的时间需要很多。同时，去纠结的是去读研总得有些自己的想法吧，或者起码找个方向，可是自己确实找不出来。在开发者社区里面也看到了有很多人说，综合来看如果以后目标工作，研究生的三年确实不如工作三年的经验，何况去读研还不能保证自己的选择是对的。而且目前课堂上的东西很多距离实际的工程相差太远，虽然我知道这个不能够比较。记得高考前，突然自己明白了一个道理，学习没有什么尽头的，不是高考结束，也不是大学结束。世界很大，自己要一直学习，才能一点点的了解。突然，感觉放在这里也很合适，不管是本科还是研究生阶段，其实还是自己在不断学习，直接工作或许只是换一种环境学习吧。还有，也有自己的一些观察吧，今年虽然互联网行业巨头BAT的紧缩，有人说是资本寒冬到了，但是确实有点危言耸听。目前来看，互联网行业正处于《浪潮之巅》中所说的一个时代的浪尖。学好技术，坚定的走下去或许是自己的选择。&lt;/p&gt;
-&lt;p&gt;很想明年能够去更高的地方看看，暑假前，争取去一家大公司实习。&lt;/p&gt;
-&lt;p&gt;从现在到明年3、4月，继续Java基础的学习，要熟悉Java Web中的SSH三大框架，重点放在服务器端的技术上面，争取能够写出一些小的项目出来。同时还得学好JavaScript这门语言，目前的Web开发来看，JavaScript已经太重要了，基本能够实现从前端到后端的所有模块。算法和数据结构需要自己从头开始了，而且是非常重要的，为了避免之前掉到语言的坑里面，考虑用Python来实现。其余的操作系统、计算机网络这些可能找实习前也需要复习一下，平时的课程也得认真的上。&lt;/p&gt;
-&lt;p&gt;当然更加关键的肯定是明年的9月份或者更早就得找正式的工作了。能够做好的无非也就前面的提到的那些，语言方面的基础需要多看书，现在的语言应用都是基于框架的，没有牢固的语言基础，框架学着也会有点问题。有时间或许可以试试移动开发，iOS没有Mac不大可能了，Windows Phone的开发受众面实在太窄，也就只有Android了，当然Android市场占有率第一是毋庸置疑的。再有时间也就要毕业了，或许可以研究一下函数式语言，很多人都说可以改变对编程产生巨大影响。同时未来的移动和Web开发的趋势应该是朝着HTML5和JavaScript方向发展了，前端的东西很多，可能一下搞不完了。&lt;/p&gt;
-&lt;p&gt;当然，计算机肯定不只是Web开发这些，树莓派自己一直没玩过，或许这个可以做出更多有趣的事情来。&lt;/p&gt;
-&lt;p&gt;未来不远了，或者就在眼前了，多想想自己还需要学习。&lt;/p&gt;
-&lt;p&gt;写的时候发现已是11月初，记起三年前的这个时候，极其沮丧的回到了学校，带着大包小包，兜兜转转，来到来了长沙。如果说从东北回来，还有人支持我，那么我说我要跑来长沙的想法直接被所有人否决了，没有人支持。但是自己早已经是一个决定了的事谁也改不了的人，于是自己联系，己带着东西就来了。那天是11月4日，这个似乎记得很清楚。埋下头来，只有高考和试题了。三年过后，自己也忘了那种感觉是怎样是怎样，也想象不出来是怎么过来的了。但我一直坚信自己做过的所有决定都是经过深思熟虑，我想一直走下去。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;已经很久都没有更新过博客了，之前一直想要写一篇长文章，后来就一直拖着。从年前一直拖到了过完了年，然后又拖到了下学期期末，最后过了暑假似乎都没有机会。这次，突然来机会了，因为突然一门课程需要写一份2000+字以上的未来的规划。哈哈，于是就当做博客文章来写吧。&lt;/p&gt;
-&lt;h3 
-    
-    </summary>
-    
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>数学建模协会的分享</title>
@@ -93,27 +30,6 @@
     
       &lt;p&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/MMC.pdf&quot; title=&quot;全过程的讲义&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;全过程的讲义下载&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;相关资源：&lt;br&gt;    &lt;li&gt;&lt;a href=
-    
-    </summary>
-    
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Java Test Code</title>
-    <link href="http://yoursite.com/2015/05/24/java-test-code/"/>
-    <id>http://yoursite.com/2015/05/24/java-test-code/</id>
-    <published>2015-05-24T09:23:55.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
-    
-    <content type="html">&lt;p&gt;[java]&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(&amp;quot;Hello, World&amp;quot;);&lt;br&gt;    }&lt;br&gt;}&lt;br&gt;[/java]&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;[java]&lt;br&gt;public class HelloWorld {&lt;br&gt;    public static void main(String[] args) {&lt;br&gt;        System.out.println(&amp;quot;Hello, World&amp;quot
     
     </summary>
     

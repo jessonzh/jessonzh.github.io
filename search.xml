@@ -4,53 +4,10 @@
   
     
     <entry>
-      <title><![CDATA[Hello World]]></title>
-      <url>http://yoursite.com/2016/03/30/hello-world/</url>
-      <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[感悟]]></title>
-      <url>http://yoursite.com/2015/11/27/e6-84-9f-e6-82-9f/</url>
-      <content type="html"><![CDATA[<p>已经很久都没有更新过博客了，之前一直想要写一篇长文章，后来就一直拖着。从年前一直拖到了过完了年，然后又拖到了下学期期末，最后过了暑假似乎都没有机会。这次，突然来机会了，因为突然一门课程需要写一份2000+字以上的未来的规划。哈哈，于是就当做博客文章来写吧。</p>
-<h3 id="过去的大一"><a href="#过去的大一" class="headerlink" title="过去的大一"></a>过去的大一</h3><p>很快，真的很快，竟然两年的时间就已经过去了，似乎昨天还是大一的入学。8月的尾巴上面，四个愣头愣脑的家伙跑去无锡参赛，以决赛资格倒数第三名的身份跑过去，自己心里也没底，去之前和老罗差点都吵了起来，但是最后还是抱着没拿到奖就当做是旅游的态度去了。最后结果的国一确实有点意外。总是觉着生活的意外总是很多，但是和某人说的那样，并不是很难。项目中能够说的也多少，参赛的最大的感受就是行业最需要的就是创新，当然我们在做一个东西的时候，我们需要把东西做的就尽可能完美。</p>
-<p>9月初急急忙忙从上海回来后，不得不承认的事实就是发现自己已经大三了。老罗早在8月份参加过了一次面试笔试，看着他们找工作，仿佛就看到了一年后的自己。</p>
-<p>回望过去的两年确实发生了很多事。两年前，自己觉得自己懂很多。问自己想怎么走，回答先看看吧。觉得自己或许可以科研，至少考个研究生吧，后来发现自己高数却很吃力，英语也很吃力。总是觉得未来要改变世界，最后发现自己都改变不了。以及记不起什么时候突然想着要转专业了。去电气，听说工科的都转去那了？记得那天大早上打电话给老姐，我问她现在头脑清晰吗？最后他说，去一个自己感兴趣的行业，以后自己会有动力的。于是，最后拿着两张都填好的申请表，去了理科楼。</p>
-<h3 id="过去的大二"><a href="#过去的大二" class="headerlink" title="过去的大二"></a>过去的大二</h3><p>一个只学过Pascal和Frotran的人去直接学习数据结构是一种怎样的体验？更加关键的是C语言也学的半吊子，于是你发现把时间全部集中在了如何解决C语言的基础问题上，结果可想而知，就感觉数据结构没学过一样体验。模电、数电、数据库、计算机网络、软件工程，当然还要补上C和C++，还有自己看了一些Java，下学期的Web开发倒是见识了一些东西。记得上次在知乎上mu peng说，学习就是一个从模糊逐渐开始清晰的过程，开始胡乱塞给自己一些东西，然后这儿学点，那儿学点，以后自己看到了一些全局的东西，慢慢的整个轮廓就清晰了。Web开发到好像是这样，从自己开始建博客站点，到真正明白了前后端的工作原理后，发现就是这样。实验室氛围让我感觉很好了，所有的小伙伴都为了一件有趣的事情而聚在了一起。生活总是把一些有趣的东西聚合到了一起。</p>
-<h3 id="现在"><a href="#现在" class="headerlink" title="现在"></a>现在</h3><p>一直没有任何方向的学习。于是，语言方面，PHP会一点，Java也会一点，Python还能写上几个能跑的算法，C语言遇到指针就有点头疼，C++完全就是在写C的升级版程序，只是用的全是cin和cout，HTML和CSS总是觉得自己写的有点问题，但是不知道问题出在哪里，或许现在前端已经很少有什么纯写HTML和CSS的了，JavaScript好像也会一点，可是一旦高级一点的又不会了。计算机网络感觉都看的很好，数据库SQL语句倒是可以写上那个几句，软件工程感觉没有写过上万行代码和自己设计过什么系统级的东西真真体会不出来。自己鼓捣了很久的Linux，后来发现除了那几个常见的命令，其他的全忘了。</p>
-<h3 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h3><p>想了很久，确实需要给自己定一个方向了。以前还觉得要奔着全栈工程师去，现在来看确实太过于遥远了。真的要做好一个方向确实已经很不容易了。对于我而言，全栈只是理想了，能够把一个做到比较好都是需要很多时间的。</p>
-<p>开始还在观望要不要考研，别人一问，总是回答，还在考虑吧。现在来看，时间上基本要开始也得开始了。分析来看，自己不想在把时间花在某些政治课程上，同时复习一些高数、英语这些课程的时间需要很多。同时，去纠结的是去读研总得有些自己的想法吧，或者起码找个方向，可是自己确实找不出来。在开发者社区里面也看到了有很多人说，综合来看如果以后目标工作，研究生的三年确实不如工作三年的经验，何况去读研还不能保证自己的选择是对的。而且目前课堂上的东西很多距离实际的工程相差太远，虽然我知道这个不能够比较。记得高考前，突然自己明白了一个道理，学习没有什么尽头的，不是高考结束，也不是大学结束。世界很大，自己要一直学习，才能一点点的了解。突然，感觉放在这里也很合适，不管是本科还是研究生阶段，其实还是自己在不断学习，直接工作或许只是换一种环境学习吧。还有，也有自己的一些观察吧，今年虽然互联网行业巨头BAT的紧缩，有人说是资本寒冬到了，但是确实有点危言耸听。目前来看，互联网行业正处于《浪潮之巅》中所说的一个时代的浪尖。学好技术，坚定的走下去或许是自己的选择。</p>
-<p>很想明年能够去更高的地方看看，暑假前，争取去一家大公司实习。</p>
-<p>从现在到明年3、4月，继续Java基础的学习，要熟悉Java Web中的SSH三大框架，重点放在服务器端的技术上面，争取能够写出一些小的项目出来。同时还得学好JavaScript这门语言，目前的Web开发来看，JavaScript已经太重要了，基本能够实现从前端到后端的所有模块。算法和数据结构需要自己从头开始了，而且是非常重要的，为了避免之前掉到语言的坑里面，考虑用Python来实现。其余的操作系统、计算机网络这些可能找实习前也需要复习一下，平时的课程也得认真的上。</p>
-<p>当然更加关键的肯定是明年的9月份或者更早就得找正式的工作了。能够做好的无非也就前面的提到的那些，语言方面的基础需要多看书，现在的语言应用都是基于框架的，没有牢固的语言基础，框架学着也会有点问题。有时间或许可以试试移动开发，iOS没有Mac不大可能了，Windows Phone的开发受众面实在太窄，也就只有Android了，当然Android市场占有率第一是毋庸置疑的。再有时间也就要毕业了，或许可以研究一下函数式语言，很多人都说可以改变对编程产生巨大影响。同时未来的移动和Web开发的趋势应该是朝着HTML5和JavaScript方向发展了，前端的东西很多，可能一下搞不完了。</p>
-<p>当然，计算机肯定不只是Web开发这些，树莓派自己一直没玩过，或许这个可以做出更多有趣的事情来。</p>
-<p>未来不远了，或者就在眼前了，多想想自己还需要学习。</p>
-<p>写的时候发现已是11月初，记起三年前的这个时候，极其沮丧的回到了学校，带着大包小包，兜兜转转，来到来了长沙。如果说从东北回来，还有人支持我，那么我说我要跑来长沙的想法直接被所有人否决了，没有人支持。但是自己早已经是一个决定了的事谁也改不了的人，于是自己联系，己带着东西就来了。那天是11月4日，这个似乎记得很清楚。埋下头来，只有高考和试题了。三年过后，自己也忘了那种感觉是怎样是怎样，也想象不出来是怎么过来的了。但我一直坚信自己做过的所有决定都是经过深思熟虑，我想一直走下去。</p>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[数学建模协会的分享]]></title>
       <url>http://yoursite.com/2015/11/07/e6-95-b0-e5-ad-a6-e5-bb-ba-e6-a8-a1-e5-8d-8f-e4-bc-9a-e7-9a-84-e5-88-86-e4-ba-ab/</url>
       <content type="html"><![CDATA[<p><a href="http://techkeep.qiniudn.com/MMC.pdf" title="全过程的讲义" target="_blank" rel="external">全过程的讲义下载</a></p>
 <p>相关资源：<br>    <li><a href="http://book.douban.com/subject/5959958/" target="_blank" rel="external">数学模型 第四版</a></li><br>      <li><a href="http://v.163.com/special/cuvocw/lixingshijiao.html" target="_blank" rel="external">数学模型-现实世界的理性视角</a></li><br>    <li><a href="http://210.43.188.3:8080/html/guider/szzy.htm" title="长沙理工大学可用数字资源列表" target="_blank" rel="external">长沙理工大学可用数字资源列表</a></li><br>    <li><a href="http://book.douban.com/subject/7046813/" title="精通MATLAB R2011a" target="_blank" rel="external">精通MATLAB R2011a</a></li><br>    <li><a href="http://book.douban.com/subject/6052205/" title="MATLAB在数学建模中的应用" target="_blank" rel="external">MATLAB在数学建模中的应用</a></li><br>    <li><a href="http://www.ituring.com.cn/book/1278" title="编程导论" target="_blank" rel="external">编程导论</a></li><br>    <li><a href="https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6" title="Introduction to Computer Science and Programming Using Python" target="_blank" rel="external">Introduction to Computer Science and Programming Using Python</a></li><br>    <li><a href="http://techkeep.qiniudn.com/本科生毕业设计（论文）样张.doc" title="本科生毕业设计（论文）样张" target="_blank" rel="external">本科生毕业设计（论文）样张</a></li><br>    <li><a href="http://dsa.dayainfo.com/" title="大雅相似度分析" target="_blank" rel="external">大雅相似度分析</a></li></p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[Java Test Code]]></title>
-      <url>http://yoursite.com/2015/05/24/java-test-code/</url>
-      <content type="html"><![CDATA[<p>[java]<br>public class HelloWorld {<br>    public static void main(String[] args) {<br>        System.out.println(&quot;Hello, World&quot;);<br>    }<br>}<br>[/java]</p>
 ]]></content>
     </entry>
     

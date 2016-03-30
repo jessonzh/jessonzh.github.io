@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/projects/index.html</loc>
+    <loc>http://yoursite.com/2013/12/28/2013-e5-b9-b4-e7-94-b5-e5-b7-a5-e6-9d-af-e6-84-9f-e6-82-9f/</loc>
     
     <lastmod>2016-03-30T14:30:55.632Z</lastmod>
     
@@ -17,13 +17,6 @@
   
   <url>
     <loc>http://yoursite.com/2014/11/09/e3-80-8csae-e3-80-8d-e6-96-b0-e7-9a-84-e5-bc-80-e5-a7-8b/</loc>
-    
-    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/11/27/e6-84-9f-e6-82-9f/</loc>
     
     <lastmod>2016-03-30T14:30:55.632Z</lastmod>
     
@@ -44,28 +37,7 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2013/12/28/2013-e5-b9-b4-e7-94-b5-e5-b7-a5-e6-9d-af-e6-84-9f-e6-82-9f/</loc>
-    
-    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2015/05/24/java-test-code/</loc>
-    
-    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://yoursite.com/2014/11/18/python-share/</loc>
-    
-    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/github/index.html</loc>
     
     <lastmod>2016-03-30T14:30:55.632Z</lastmod>
     
@@ -79,16 +51,23 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2015/03/20/%E8%B5%B0%E8%B5%B0%E5%81%9C%E5%81%9C/</loc>
+    <loc>http://yoursite.com/github/index.html</loc>
     
-    <lastmod>2016-03-30T14:11:54.272Z</lastmod>
+    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yoursite.com/2016/03/30/hello-world/</loc>
+    <loc>http://yoursite.com/projects/index.html</loc>
     
-    <lastmod>2016-03-30T14:07:16.960Z</lastmod>
+    <lastmod>2016-03-30T14:30:55.632Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2015/03/20/%E8%B5%B0%E8%B5%B0%E5%81%9C%E5%81%9C/</loc>
+    
+    <lastmod>2016-03-30T14:11:54.272Z</lastmod>
     
   </url>
   
