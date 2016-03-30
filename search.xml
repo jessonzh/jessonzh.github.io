@@ -4,6 +4,15 @@
   
     
     <entry>
+      <title><![CDATA[博客转移公告]]></title>
+      <url>http://yoursite.com/2016/03/31/Transfer-blog-announcement/</url>
+      <content type="html"><![CDATA[<p>想了想自己已经折腾了多个地方了，从最初的三蛋空间，再到后来的新浪云，再到阿里云，再到腾讯云，再到现在的GitHub Page。</p>
+<p>纠结于要不要备案，使用的域名是不是cn等等。</p>
+<p>最后，来到了GitHub。</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[数学建模协会的分享]]></title>
       <url>http://yoursite.com/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/</url>
       <content type="html"><![CDATA[<p><a href="http://techkeep.qiniudn.com/MMC.pdf" target="_blank" rel="external">全过程的讲义下载</a></p>

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-30T15:26:41.204Z</updated>
+  <updated>2016-03-30T19:52:32.376Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客转移公告</title>
+    <link href="http://yoursite.com/2016/03/31/Transfer-blog-announcement/"/>
+    <id>http://yoursite.com/2016/03/31/Transfer-blog-announcement/</id>
+    <published>2016-03-30T17:35:31.000Z</published>
+    <updated>2016-03-30T19:52:32.376Z</updated>
+    
+    <content type="html">&lt;p&gt;想了想自己已经折腾了多个地方了，从最初的三蛋空间，再到后来的新浪云，再到阿里云，再到腾讯云，再到现在的GitHub Page。&lt;/p&gt;
+&lt;p&gt;纠结于要不要备案，使用的域名是不是cn等等。&lt;/p&gt;
+&lt;p&gt;最后，来到了GitHub。&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;想了想自己已经折腾了多个地方了，从最初的三蛋空间，再到后来的新浪云，再到阿里云，再到腾讯云，再到现在的GitHub Page。&lt;/p&gt;
+&lt;p&gt;纠结于要不要备案，使用的域名是不是cn等等。&lt;/p&gt;
+&lt;p&gt;最后，来到了GitHub。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>数学建模协会的分享</title>
