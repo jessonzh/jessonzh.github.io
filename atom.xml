@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-30T14:30:55.632Z</updated>
+  <updated>2016-03-30T15:26:41.204Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,20 @@
   
   <entry>
     <title>数学建模协会的分享</title>
-    <link href="http://yoursite.com/2015/11/07/e6-95-b0-e5-ad-a6-e5-bb-ba-e6-a8-a1-e5-8d-8f-e4-bc-9a-e7-9a-84-e5-88-86-e4-ba-ab/"/>
-    <id>http://yoursite.com/2015/11/07/e6-95-b0-e5-ad-a6-e5-bb-ba-e6-a8-a1-e5-8d-8f-e4-bc-9a-e7-9a-84-e5-88-86-e4-ba-ab/</id>
+    <link href="http://yoursite.com/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/"/>
+    <id>http://yoursite.com/2015/11/07/数模协会分享/</id>
     <published>2015-11-07T02:43:03.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
+    <updated>2016-03-30T15:26:41.204Z</updated>
     
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/MMC.pdf&quot; title=&quot;全过程的讲义&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;全过程的讲义下载&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;相关资源：&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://book.douban.com/subject/5959958/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数学模型 第四版&lt;/a&gt;&lt;/li&gt;&lt;br&gt;      &lt;li&gt;&lt;a href=&quot;http://v.163.com/special/cuvocw/lixingshijiao.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数学模型-现实世界的理性视角&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://210.43.188.3:8080/html/guider/szzy.htm&quot; title=&quot;长沙理工大学可用数字资源列表&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;长沙理工大学可用数字资源列表&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://book.douban.com/subject/7046813/&quot; title=&quot;精通MATLAB R2011a&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;精通MATLAB R2011a&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://book.douban.com/subject/6052205/&quot; title=&quot;MATLAB在数学建模中的应用&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MATLAB在数学建模中的应用&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://www.ituring.com.cn/book/1278&quot; title=&quot;编程导论&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;编程导论&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6&quot; title=&quot;Introduction to Computer Science and Programming Using Python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Introduction to Computer Science and Programming Using Python&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/本科生毕业设计（论文）样张.doc&quot; title=&quot;本科生毕业设计（论文）样张&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;本科生毕业设计（论文）样张&lt;/a&gt;&lt;/li&gt;&lt;br&gt;    &lt;li&gt;&lt;a href=&quot;http://dsa.dayainfo.com/&quot; title=&quot;大雅相似度分析&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大雅相似度分析&lt;/a&gt;&lt;/li&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/MMC.pdf&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;全过程的讲义下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;相关资源：&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/5959958/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数学模型 第四版&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://v.163.com/special/cuvocw/lixingshijiao.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;数学模型-现实世界的理性视角&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://210.43.188.3:8080/html/guider/szzy.htm&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;长沙理工大学可用数字资源列表&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/7046813/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;精通MATLAB R2011a&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/6052205/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MATLAB在数学建模中的应用&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.ituring.com.cn/book/1278&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;编程导论&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Introduction to Computer Science and Programming Using Python&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/本科生毕业设计论文样张.doc&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;本科生毕业设计（论文）样张&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://dsa.dayainfo.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;大雅相似度分析&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/MMC.pdf&quot; title=&quot;全过程的讲义&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;全过程的讲义下载&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;相关资源：&lt;br&gt;    &lt;li&gt;&lt;a href=
+      &lt;p&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/MMC.pdf&quot;&gt;全过程的讲义下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;相关资源：&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/5959958/&quot;&gt;数学模型 第四版&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://v.163.com/special/cuvocw/lixingshijiao.html&quot;&gt;数学模型-现实世界的理性视角&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://210.43.188.3:8080/html/guider/szzy.htm&quot;&gt;长沙理工大学可用数字资源列表&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/7046813/&quot;&gt;精通MATLAB R2011a&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://book.douban.com/subject/6052205/&quot;&gt;MATLAB在数学建模中的应用&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://www.ituring.com.cn/book/1278&quot;&gt;编程导论&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6&quot;&gt;Introduction to Computer Science and Programming Using Python&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://techkeep.qiniudn.com/本科生毕业设计论文样张.doc&quot;&gt;本科生毕业设计（论文）样张&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;http://dsa.dayainfo.com/&quot;&gt;大雅相似度分析&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -40,10 +41,10 @@
   
   <entry>
     <title>Java 核心</title>
-    <link href="http://yoursite.com/2015/05/08/132/"/>
-    <id>http://yoursite.com/2015/05/08/132/</id>
+    <link href="http://yoursite.com/2015/05/08/Java%20%E6%A0%B8%E5%BF%83/"/>
+    <id>http://yoursite.com/2015/05/08/Java 核心/</id>
     <published>2015-05-08T09:42:01.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
+    <updated>2016-03-30T15:24:11.676Z</updated>
     
     <content type="html">&lt;h4 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;List&lt;/p&gt;
@@ -53,8 +54,8 @@
 &lt;li&gt;SkipList&lt;/li&gt;
 &lt;li&gt;存储方式，如何扩展，分别适用在哪些方面&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;线程安全&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;*   CopyOnWriteArrayList
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;CopyOnWriteArrayList&lt;/li&gt;
 &lt;li&gt;Collections.synchronizedList(list)&lt;/li&gt;
 &lt;li&gt;Vector&lt;/li&gt;
 &lt;li&gt;有何区别&lt;/li&gt;
@@ -62,6 +63,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Map&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;如何存储？如何保证散列均衡，如何扩展&lt;/li&gt;
@@ -83,18 +87,15 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Tree&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Queue&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;Queue&lt;/li&gt;
 &lt;li&gt;LinkedList（双向链表）&lt;/li&gt;
 &lt;li&gt;ArrayDeque（数组，FIFO）&lt;/li&gt;
 &lt;li&gt;PriorityQueue（二叉堆实现的优先级队列）&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;线程安全&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;*   PriorityBlockingQueue（一般用在什么场景）
-&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;PriorityBlockingQueue（一般用在什么场景）&lt;/li&gt;
 &lt;li&gt;DelayQueue&lt;/li&gt;
 &lt;li&gt;ArrayBlockingQueue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;Stack&lt;/p&gt;
@@ -116,7 +117,19 @@
 &lt;ul&gt;
 &lt;li&gt;ArrayList&lt;/li&gt;
 &lt;li&gt;LinkList&lt;/li&gt;
-&lt;li&gt;SkipLi
+&lt;li&gt;SkipList&lt;/li&gt;
+&lt;li&gt;存储方式，如何扩展，分别适用在哪些方面&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;线程安全&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CopyOnWriteArrayList&lt;/li&gt;
+&lt;li&gt;Collections.synchronizedList(list)&lt;/li&gt;
+&lt;li&gt;Vector&lt;/li&gt;
+&lt;li&gt;有何区别&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -163,9 +176,10 @@
     <link href="http://yoursite.com/2014/11/18/python-share/"/>
     <id>http://yoursite.com/2014/11/18/python-share/</id>
     <published>2014-11-18T15:03:22.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
+    <updated>2016-03-30T15:26:17.540Z</updated>
     
     <content type="html">&lt;p&gt;本文主要针对零基础 想学习Python者。本文由网友  @史江歌（&lt;a href=&quot;https://github.com/Yixiaohan/codeparkshare&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;原项目 GitHub 地址&lt;/a&gt;）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h3 id=&quot;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot;&gt;&lt;a href=&quot;#一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot; class=&quot;headerlink&quot; title=&quot;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot;&gt;&lt;/a&gt;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/20161362&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《如何用好Google搜索引擎？》-知乎问答@崔凯&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;http://www.williamlong.info/archives/728.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;《十大高明的Google搜索技巧》-雪影蓝风&lt;/a&gt;&lt;/li&gt;
@@ -184,7 +198,7 @@
 &lt;li&gt;更多书籍推荐， &lt;a href=&quot;http://www.v2ex.com/t/40397&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;V2EX 问答：文科生想学 Python？&lt;/a&gt; 以及 &lt;a href=&quot;http://www.v2ex.com/go/python&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;V2EX 官方推荐&lt;/a&gt;；&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;四、视频推荐：&quot;&gt;&lt;a href=&quot;#四、视频推荐：&quot; class=&quot;headerlink&quot; title=&quot;四、视频推荐：&quot;&gt;&lt;/a&gt;四、视频推荐：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://v.163.com/special/opencourse/bianchengdaolun.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;麻省理工公开课《计算机科学及编程导论》&lt;/a&gt;，该课程针对零基础者；这门课程适用于那些拥有很少或没有编程经验的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，不论其专业，使他们对于能够完成有用的小程序的目标充满信心；&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;li&gt;&lt;a href=&quot;http://v.163.com/special/opencourse/bianchengdaolun.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;麻省理工公开课《计算机科学及编程导论》&lt;/a&gt;，该课程针对零基础者；这门课程适用于那些拥有很少或没有编程经验的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，不论其专业，使他们对于能够完成有用的小程序的目标充满信心；&lt;!--more--&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;五、学习方法&quot;&gt;&lt;a href=&quot;#五、学习方法&quot; class=&quot;headerlink&quot; title=&quot;五、学习方法&quot;&gt;&lt;/a&gt;五、学习方法&lt;/h3&gt;&lt;ul&gt;
@@ -214,30 +228,12 @@
 &lt;p&gt;&lt;a href=&quot;http://uliweb.clkg.org/tutorial/view_chapter/240&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://uliweb.clkg.org/tutorial/view_chapter/240&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://qinxuye.me/article/a-distributed-weibo-crawler/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;一个简单的分布式新浪微博爬虫&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&quot;九、工具&quot;&gt;&lt;a href=&quot;#九、工具&quot; class=&quot;headerlink&quot; title=&quot;九、工具&quot;&gt;&lt;/a&gt;九、工具&lt;/h3&gt;&lt;p&gt;Windows系统下，Python相关包 &lt;a href=&quot;http://www.lfd.uci.edu/~gohlke/pythonlibs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Windows Binaries for Python Extension Packages&lt;/a&gt;&lt;/p&gt;
-&lt;!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) --&gt;</content>
+&lt;!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) --&gt;
+</content>
     
     <summary type="html">
     
       &lt;p&gt;本文主要针对零基础 想学习Python者。本文由网友  @史江歌（&lt;a href=&quot;https://github.com/Yixiaohan/codeparkshare&quot;&gt;原项目 GitHub 地址&lt;/a&gt;）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。&lt;/p&gt;
-&lt;h3 id=&quot;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot;&gt;&lt;a href=&quot;#一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot; class=&quot;headerlink&quot; title=&quot;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&quot;&gt;&lt;/a&gt;一、学会使用搜索引擎，尤其是Google。推荐阅读文章：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.zhihu.com/question/20161362&quot;&gt;《如何用好Google搜索引擎？》-知乎问答@崔凯&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.williamlong.info/archives/728.html&quot;&gt;《十大高明的Google搜索技巧》-雪影蓝风&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;二、学会提问-推荐阅读：&quot;&gt;&lt;a href=&quot;#二、学会提问-推荐阅读：&quot; class=&quot;headerlink&quot; title=&quot;二、学会提问,推荐阅读：&quot;&gt;&lt;/a&gt;二、学会提问,推荐阅读：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://wiki.woodpecker.org.cn/moin/AskForHelp&quot;&gt;《提问的智慧》–by 啄木鸟社区&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;三、书籍推荐：&quot;&gt;&lt;a href=&quot;#三、书籍推荐：&quot; class=&quot;headerlink&quot; title=&quot;三、书籍推荐：&quot;&gt;&lt;/a&gt;三、书籍推荐：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://docs.python.org/2/tutorial/index.html&quot;&gt;Python 官方文档&lt;/a&gt;，英语不好的，暂时就先别看了，以后一定肯定要加强英语学习;&lt;/li&gt;
-&lt;li&gt;对于零基础者，推荐&lt;a href=&quot;http://www.greenteapress.com/thinkpython/thinkCSpy.pdf&quot;&gt;《How to think like a computer scientist》&lt;/a&gt;，对应中文版本《Python学习笔记-皮大庆》，非常适合零基础入门；&lt;/li&gt;
-&lt;li&gt;对于零基础者，推荐&lt;a href=&quot;http://book.douban.com/subject/7059900/&quot;&gt;《Python编程实践》&lt;/a&gt;；&lt;/li&gt;
-&lt;li&gt;对于零基础者，推荐&lt;a href=&quot;http://woodpecker.org.cn/abyteofpython_cn/chinese/&quot;&gt;《简明Python教程》&lt;/a&gt;；&lt;/li&gt;
-&lt;li&gt;对于零基础者，推荐&lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;《Learn Python The Hard Way》&lt;/a&gt;，对应中文版本《笨办法学 Python》；&lt;/li&gt;
-&lt;li&gt;对于有其他编程语言基础者，推荐&lt;a href=&quot;http://book.douban.com/subject/4866934/&quot;&gt;《Python基础教程》&lt;/a&gt;；&lt;/li&gt;
-&lt;li&gt;更多书籍推荐，知乎问答：&lt;a href=&quot;http://www.zhihu.com/question/19593179&quot;&gt;关于 Python 的经典入门书籍有哪些？&lt;/a&gt;；&lt;/li&gt;
-&lt;li&gt;更多书籍推荐， &lt;a href=&quot;http://www.v2ex.com/t/40397&quot;&gt;V2EX 问答：文科生想学 Python？&lt;/a&gt; 以及 &lt;a href=&quot;http://www.v2ex.com/go/python&quot;&gt;V2EX 官方推荐&lt;/a&gt;；&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;四、视频推荐：&quot;&gt;&lt;a href=&quot;#四、视频推荐：&quot; class=&quot;headerlink&quot; title=&quot;四、视频推荐：&quot;&gt;&lt;/a&gt;四、视频推荐：&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;http://v.163.com/special/opencourse/bianchengdaolun.html&quot;&gt;麻省理工公开课《计算机科学及编程导论》&lt;/a&gt;，该课程针对零基础者；这门课程适用于那些拥有很少或没有编程经验的学生,它致力于使学生理解计算机在解决问题中的作用,并且帮助学生，不论其专业，使他们对于能够完成有用的小程序的目标充满信心；
     
     </summary>
     
@@ -257,7 +253,7 @@
     <link href="http://yoursite.com/2014/11/16/guide-for-technical-development/"/>
     <id>http://yoursite.com/2014/11/16/guide-for-technical-development/</id>
     <published>2014-11-15T17:09:41.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
+    <updated>2016-03-30T15:26:27.644Z</updated>
     
     <content type="html">&lt;p&gt;Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a suggested path for University students to develop their technical skills academically and non-academically through self paced hands-on learning. You may use this guide to determine courses to take but please make sure you are taking courses required for your major or faculty in order to graduate. The online resources provided in this guide are not meant to replace courses available at your University. However, they may help supplement your learnings or provide an introduction to the topic.&lt;/p&gt;
 &lt;p&gt;Using this guide:&lt;/p&gt;
@@ -267,6 +263,7 @@
 &lt;li&gt;Checking off all items in this guide does not guarantee a job at Google&lt;/li&gt;
 &lt;li&gt;This guide will evolve or change - check back for updates&lt;br&gt;Follow our &lt;a href=&quot;https://plus.google.com/u/0/+GoogleStudents/posts&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google for Students +Page&lt;/a&gt; to get additional tips, resources, and other students interested in development.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;h2 id=&quot;Recommendations-for-Academic-Learnings&quot;&gt;&lt;a href=&quot;#Recommendations-for-Academic-Learnings&quot; class=&quot;headerlink&quot; title=&quot;Recommendations for Academic Learnings&quot;&gt;&lt;/a&gt;Recommendations for Academic Learnings&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Introduction to CS Course&lt;/strong&gt;;Notes: Introduction to Computer Science Course that provides instructions on coding Online Resources: &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fwww.udacity.com%2Fcourse%2Fcs101&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNGdmrWTUY5b_qe3xle9-ddkB1YXqA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Udacity - intro to CS course&lt;/a&gt;, &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fcs101&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNE-mScGCD0MJRKuWuFyLJbIr4XdbA&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coursera - Computer Science 101&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Code in at least one object oriented programming language: C++, Java, or Python&lt;/strong&gt;;Beginner Online Resources: &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fprogramming1&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNERrKn8RoMF2C-tzZ_51XpGA2QzUQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coursera - Learn to Program: The Fundamentals&lt;/a&gt;, &lt;a href=&quot;http://www.google.com/url?q=http%3A%2F%2Focw.mit.edu%2Fcourses%2Felectrical-engineering-and-computer-science%2F6-092-introduction-to-programming-in-java-january-iap-2010%2Findex.htm&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNHfuFmBicr4_Zh4dtfmk_mYq0BtNQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MIT Intro to Programming in Java&lt;/a&gt;, &lt;a href=&quot;https://developers.google.com/edu/python/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Google’s Python Class&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/course/interactivepython&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coursera - Introduction to Python&lt;/a&gt;, &lt;a href=&quot;http://www.openbookproject.net/thinkcs/python/english2e/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Python Open Source E-Book&lt;/a&gt; .Intermediate Online Resources: &lt;a href=&quot;https://www.google.com/url?q=https%3A%2F%2Fwww.coursera.org%2Fcourse%2Fprogramming1&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AFQjCNERrKn8RoMF2C-tzZ_51XpGA2QzUQ&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Udacity’s Design of Computer Programs&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/course/programming2&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coursera - Learn to Program: Crafting Quality Code&lt;/a&gt;, &lt;a href=&quot;https://www.coursera.org/course/proglang&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Coursera - Programming Languages&lt;/a&gt;, &lt;a href=&quot;http://cs.brown.edu/courses/cs173/2012/OnLine/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Brown University - Introduction to Programming Languages&lt;/a&gt;&lt;/li&gt;
@@ -286,13 +283,21 @@
 &lt;li&gt;&lt;strong&gt;Work on project with other programmers;&lt;/strong&gt;Notes: This will help you improve your ability to work well in a team and enable you to learn from others.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Practice your algorithmic knowledge and coding skills;&lt;/strong&gt;Notes: Practice your algorithmic knowledge through coding competitions like CodeJam or ACM’s International Collegiate Programming Contest.Online Resources: &lt;a href=&quot;http://code.google.com/codejam/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;CodeJam&lt;/a&gt;, &lt;a href=&quot;http://icpc.baylor.edu/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;ACM ICPC&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Become a Teaching Assistant;&lt;/strong&gt;Notes: Helping to teach other students will help enhance your knowledge in the subject matter.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Internship experience in software engineering;&lt;/strong&gt;Notes: Make sure you apply for internships well in advance of the period internships take place. In the US, internships take place during the summer, May-September, and applications are usually open several months in advance.Online Resources: &lt;a href=&quot;http://www.google.com/about/jobs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;google.com/jobs&lt;/a&gt;.&lt;!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Internship experience in software engineering;&lt;/strong&gt;Notes: Make sure you apply for internships well in advance of the period internships take place. In the US, internships take place during the summer, May-September, and applications are usually open several months in advance.Online Resources: &lt;a href=&quot;http://www.google.com/about/jobs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;google.com/jobs&lt;/a&gt;.&lt;!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) --&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a suggested path for Un
+      &lt;p&gt;Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a suggested path for University students to develop their technical skills academically and non-academically through self paced hands-on learning. You may use this guide to determine courses to take but please make sure you are taking courses required for your major or faculty in order to graduate. The online resources provided in this guide are not meant to replace courses available at your University. However, they may help supplement your learnings or provide an introduction to the topic.&lt;/p&gt;
+&lt;p&gt;Using this guide:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Please use this guide at your discretion&lt;/li&gt;
+&lt;li&gt;There may be other things you want to learn or do outside of this guide - go for it!&lt;/li&gt;
+&lt;li&gt;Checking off all items in this guide does not guarantee a job at Google&lt;/li&gt;
+&lt;li&gt;This guide will evolve or change - check back for updates&lt;br&gt;Follow our &lt;a href=&quot;https://plus.google.com/u/0/+GoogleStudents/posts&quot;&gt;Google for Students +Page&lt;/a&gt; to get additional tips, resources, and other students interested in development.&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -308,37 +313,14 @@
   </entry>
   
   <entry>
-    <title>网站转移公告</title>
-    <link href="http://yoursite.com/2014/11/09/e3-80-8csae-e3-80-8d-e6-96-b0-e7-9a-84-e5-bc-80-e5-a7-8b/"/>
-    <id>http://yoursite.com/2014/11/09/e3-80-8csae-e3-80-8d-e6-96-b0-e7-9a-84-e5-bc-80-e5-a7-8b/</id>
-    <published>2014-11-09T06:55:02.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
-    
-    <content type="html">&lt;h6 id=&quot;由于之前的网站一直托管于三蛋的免费空间，导致广告和速度等各种问题，严重影响了网站的用户体验。目前本站的所有服务已经全部转移至-Sina-App-Engine。同时由于-SAE-平台的限制，导致以前的文章导入会出现问题。嗯，SAE-将会是新的一个开始。&quot;&gt;&lt;a href=&quot;#由于之前的网站一直托管于三蛋的免费空间，导致广告和速度等各种问题，严重影响了网站的用户体验。目前本站的所有服务已经全部转移至-Sina-App-Engine。同时由于-SAE-平台的限制，导致以前的文章导入会出现问题。嗯，SAE-将会是新的一个开始。&quot; class=&quot;headerlink&quot; title=&quot;由于之前的网站一直托管于三蛋的免费空间，导致广告和速度等各种问题，严重影响了网站的用户体验。目前本站的所有服务已经全部转移至 Sina App Engine。同时由于 SAE 平台的限制，导致以前的文章导入会出现问题。嗯，SAE 将会是新的一个开始。&quot;&gt;&lt;/a&gt;由于之前的网站一直托管于三蛋的免费空间，导致广告和速度等各种问题，严重影响了网站的用户体验。目前本站的所有服务已经全部转移至 Sina App Engine。同时由于 SAE 平台的限制，导致以前的文章导入会出现问题。嗯，SAE 将会是新的一个开始。&lt;/h6&gt;</content>
-    
-    <summary type="html">
-    
-      &lt;h6 id=&quot;由于之前的网站一直托管于三蛋的免费空间，导致广告和速度等各种问题，严重影响了网站的用户体验。目前本站的所有服务已经全部转移至-Sina-App-Engine。同时由于-SAE-平台的限制，导致以前的文章导入会出现问题。嗯，SAE-将会是新的一个开始。&quot;&gt;&lt;a hr
-    
-    </summary>
-    
-      <category term="建站" scheme="http://yoursite.com/categories/%E5%BB%BA%E7%AB%99/"/>
-    
-      <category term="程序" scheme="http://yoursite.com/categories/%E5%BB%BA%E7%AB%99/%E7%A8%8B%E5%BA%8F/"/>
-    
-    
-      <category term="建站" scheme="http://yoursite.com/tags/%E5%BB%BA%E7%AB%99/"/>
-    
-  </entry>
-  
-  <entry>
     <title>2013年电工杯感悟</title>
-    <link href="http://yoursite.com/2013/12/28/2013-e5-b9-b4-e7-94-b5-e5-b7-a5-e6-9d-af-e6-84-9f-e6-82-9f/"/>
-    <id>http://yoursite.com/2013/12/28/2013-e5-b9-b4-e7-94-b5-e5-b7-a5-e6-9d-af-e6-84-9f-e6-82-9f/</id>
+    <link href="http://yoursite.com/2013/12/28/2013%E5%B9%B4%E7%94%B5%E5%B7%A5%E6%9D%AF%E6%84%9F%E6%82%9F/"/>
+    <id>http://yoursite.com/2013/12/28/2013年电工杯感悟/</id>
     <published>2013-12-28T12:36:07.000Z</published>
-    <updated>2016-03-30T14:30:55.632Z</updated>
+    <updated>2016-03-30T15:26:34.808Z</updated>
     
     <content type="html">&lt;p&gt;11月11日，晚上看到了这次电工杯的消息，本来不准备去的，因为这段时间貌似事情比较多，各种作业和各种活动，但在数模的集训群里看到说大一的就该这次去见识见识，涨经验，想了想，比较有道理，于是便开始想这次怎么准备。想起CS说他也在准备什么建模，于是回寝室时直接打电话去了。于是，一晚上都在想怎么搞，才能不至于三天随随便便打酱油就过去了，到处找别人的经验和一些感想。当时看完别人的经验后，对这次的比赛还是充满了信心。接着就在群里找队友，最后只找到一个。最终还是把报名表发了过去。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;p&gt;21日晚上11点，数学中国的那个群里就开始讨论题目了，好像是有人破解了赛题的密码。看了看，好像是真的。原来这次的题目是21日的晚上挂在了百度的网盘上（其实此处已经暗示了这次比赛有多么不正式），而题目word的文档，只是被加密了，于是题目自然而然的就被某些人直接破密了（这些组委会的人也太低估某些人的能力了）。于是群里接着就有人共享了以破解的赛题。我把消息发到集训群里，老师说这不能，不可能泄题的。接着有人直接贴出来淘宝上买题目的链接，再接着又有人在讨论A好像是11年的题目，再接着有人站出来说这题目是糊弄人的。看得眼花缭乱，于是直接睡觉去了。&lt;/p&gt;
 &lt;p&gt;第二天早上，吃早餐时就碰到了小布  ，说了说晚上关于赛题的事。到了机房，打开赛题的文档，输入早上发布的密码，结果真的是晚上看到的，哭笑不得，瞬间觉得这坑爹的电工杯也太不正式了。&lt;br&gt;接着就是选题，看了看A题的题目描述感觉也不是很难，但好多东西还没学，再一看A的数据，吓了一跳，有40多MB，好像有一千多万个数据。又看看B题，锅炉的优化运行问题，嗯，也不熟悉，但是感觉比较容易入手。于是三个人一致决定烧锅炉。于是三个人一上午都在了解锅炉的知识。而群里又有人在说B题的第一问有现成的文章可以参考，结果去学校的数据库里找了找，还真的有。一直看到1点左右，感觉第一二问已经可以解决了，于是三个人就趁着吃饭的时间，边吃边讨论了一下。“下午和晚上把一二问的模型想出来，并且把这两问的的论文写完”，这是一个非常搞笑的决定，感觉我们还是too young，too simple。&lt;/p&gt;
 &lt;p&gt;吃完饭，回到机房，真正开始解决问题时才知道是多么艰难，就连公式里的物理量是什么都不知道，就别说什么这个公式，于是到处找资料，看得头晕眼花。最后，照着别的文章上给出的公式，自己算出来的答案发现和一本《锅炉原理》的书上给出的值，相差太远了。而用别人的公式，在加上一点自己的理解后，好像算出的值比较接近。于是三个人都茫然了，到底怎么办呢。于是又去吃晚饭，三个人都没有说什么，决定继续去看文献，看还有什么其他办法没有。接着，第一天就这样过去了，中午的决定成了空谈。&lt;/p&gt;
@@ -355,7 +337,7 @@
     
     <summary type="html">
     
-      &lt;p&gt;11月11日，晚上看到了这次电工杯的消息，本来不准备去的，因为这段时间貌似事情比较多，各种作业和各种活动，但在数模的集训群里看到说大一的就该这次去见识见识，涨经验，想了想，比较有道理，于是便开始想这次怎么准备。想起CS说他也在准备什么建模，于是回寝室时直接打电话去了。于是，
+      &lt;p&gt;11月11日，晚上看到了这次电工杯的消息，本来不准备去的，因为这段时间貌似事情比较多，各种作业和各种活动，但在数模的集训群里看到说大一的就该这次去见识见识，涨经验，想了想，比较有道理，于是便开始想这次怎么准备。想起CS说他也在准备什么建模，于是回寝室时直接打电话去了。于是，一晚上都在想怎么搞，才能不至于三天随随便便打酱油就过去了，到处找别人的经验和一些感想。当时看完别人的经验后，对这次的比赛还是充满了信心。接着就在群里找队友，最后只找到一个。最终还是把报名表发了过去。&lt;/p&gt;
     
     </summary>
     
