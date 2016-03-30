@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://techkeep.cn/"/>
   <updated>2016-03-30T19:54:28.132Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://techkeep.cn/</id>
   
   <author>
     <name>Jesson Zhou</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>博客转移公告</title>
-    <link href="http://yoursite.com/2016/03/31/Transfer-blog-announcement/"/>
-    <id>http://yoursite.com/2016/03/31/Transfer-blog-announcement/</id>
+    <link href="http://techkeep.cn/2016/03/31/Transfer-blog-announcement/"/>
+    <id>http://techkeep.cn/2016/03/31/Transfer-blog-announcement/</id>
     <published>2016-03-30T17:35:31.000Z</published>
     <updated>2016-03-30T19:54:28.132Z</updated>
     
@@ -41,8 +41,8 @@
   
   <entry>
     <title>数学建模协会的分享</title>
-    <link href="http://yoursite.com/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/"/>
-    <id>http://yoursite.com/2015/11/07/数模协会分享/</id>
+    <link href="http://techkeep.cn/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/"/>
+    <id>http://techkeep.cn/2015/11/07/数模协会分享/</id>
     <published>2015-11-07T02:43:03.000Z</published>
     <updated>2016-03-30T15:26:41.204Z</updated>
     
@@ -58,17 +58,17 @@
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="未分类" scheme="http://techkeep.cn/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
     
     
   </entry>
   
   <entry>
     <title>Java 核心</title>
-    <link href="http://yoursite.com/2015/05/08/Java%20%E6%A0%B8%E5%BF%83/"/>
-    <id>http://yoursite.com/2015/05/08/Java 核心/</id>
+    <link href="http://techkeep.cn/2015/05/08/core-java/"/>
+    <id>http://techkeep.cn/2015/05/08/core-java/</id>
     <published>2015-05-08T09:42:01.000Z</published>
-    <updated>2016-03-30T15:24:11.676Z</updated>
+    <updated>2016-03-30T19:56:03.656Z</updated>
     
     <content type="html">&lt;h4 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;List&lt;/p&gt;
@@ -157,17 +157,17 @@
     
     </summary>
     
-      <category term="程序" scheme="http://yoursite.com/categories/%E7%A8%8B%E5%BA%8F/"/>
+      <category term="程序" scheme="http://techkeep.cn/categories/%E7%A8%8B%E5%BA%8F/"/>
     
     
   </entry>
   
   <entry>
     <title>走走停停</title>
-    <link href="http://yoursite.com/2015/03/20/%E8%B5%B0%E8%B5%B0%E5%81%9C%E5%81%9C/"/>
-    <id>http://yoursite.com/2015/03/20/走走停停/</id>
+    <link href="http://techkeep.cn/2015/03/20/thinking/"/>
+    <id>http://techkeep.cn/2015/03/20/thinking/</id>
     <published>2015-03-20T11:02:13.000Z</published>
-    <updated>2016-03-30T14:11:54.272Z</updated>
+    <updated>2016-03-30T19:56:03.812Z</updated>
     
     <content type="html">&lt;p&gt;已经很久都没有更新过博客了，之前一直想要写一篇长文章，后来就一直拖着。从年前一直拖到了过完了年，然后又拖到了下学期期末，最后过了暑假似乎都没有机会。这次，突然来机会了，因为突然一门课程需要写一份2000+字以上的未来的规划。哈哈，于是就当做博客文章来写吧。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -197,8 +197,8 @@
   
   <entry>
     <title>Python Share</title>
-    <link href="http://yoursite.com/2014/11/18/python-share/"/>
-    <id>http://yoursite.com/2014/11/18/python-share/</id>
+    <link href="http://techkeep.cn/2014/11/18/python-share/"/>
+    <id>http://techkeep.cn/2014/11/18/python-share/</id>
     <published>2014-11-18T15:03:22.000Z</published>
     <updated>2016-03-30T15:26:17.540Z</updated>
     
@@ -261,21 +261,21 @@
     
     </summary>
     
-      <category term="Python" scheme="http://yoursite.com/categories/Python/"/>
+      <category term="Python" scheme="http://techkeep.cn/categories/Python/"/>
     
-      <category term="程序" scheme="http://yoursite.com/categories/Python/%E7%A8%8B%E5%BA%8F/"/>
+      <category term="程序" scheme="http://techkeep.cn/categories/Python/%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+      <category term="Python" scheme="http://techkeep.cn/tags/Python/"/>
     
-      <category term="程序" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F/"/>
+      <category term="程序" scheme="http://techkeep.cn/tags/%E7%A8%8B%E5%BA%8F/"/>
     
   </entry>
   
   <entry>
     <title>Guide for Technical Development by Google</title>
-    <link href="http://yoursite.com/2014/11/16/guide-for-technical-development/"/>
-    <id>http://yoursite.com/2014/11/16/guide-for-technical-development/</id>
+    <link href="http://techkeep.cn/2014/11/16/guide-for-technical-development/"/>
+    <id>http://techkeep.cn/2014/11/16/guide-for-technical-development/</id>
     <published>2014-11-15T17:09:41.000Z</published>
     <updated>2016-03-30T15:26:27.644Z</updated>
     
@@ -325,21 +325,21 @@
     
     </summary>
     
-      <category term="Google" scheme="http://yoursite.com/categories/Google/"/>
+      <category term="Google" scheme="http://techkeep.cn/categories/Google/"/>
     
-      <category term="Python" scheme="http://yoursite.com/categories/Google/Python/"/>
+      <category term="Python" scheme="http://techkeep.cn/categories/Google/Python/"/>
     
-      <category term="程序" scheme="http://yoursite.com/categories/Google/Python/%E7%A8%8B%E5%BA%8F/"/>
+      <category term="程序" scheme="http://techkeep.cn/categories/Google/Python/%E7%A8%8B%E5%BA%8F/"/>
     
     
-      <category term="Google" scheme="http://yoursite.com/tags/Google/"/>
+      <category term="Google" scheme="http://techkeep.cn/tags/Google/"/>
     
   </entry>
   
   <entry>
     <title>2013年电工杯感悟</title>
-    <link href="http://yoursite.com/2013/12/28/2013%E5%B9%B4%E7%94%B5%E5%B7%A5%E6%9D%AF%E6%84%9F%E6%82%9F/"/>
-    <id>http://yoursite.com/2013/12/28/2013年电工杯感悟/</id>
+    <link href="http://techkeep.cn/2013/12/28/2013%E5%B9%B4%E7%94%B5%E5%B7%A5%E6%9D%AF%E6%84%9F%E6%82%9F/"/>
+    <id>http://techkeep.cn/2013/12/28/2013年电工杯感悟/</id>
     <published>2013-12-28T12:36:07.000Z</published>
     <updated>2016-03-30T15:26:34.808Z</updated>
     
@@ -365,10 +365,10 @@
     
     </summary>
     
-      <category term="未分类" scheme="http://yoursite.com/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
+      <category term="未分类" scheme="http://techkeep.cn/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/"/>
     
     
-      <category term="数序建模" scheme="http://yoursite.com/tags/%E6%95%B0%E5%BA%8F%E5%BB%BA%E6%A8%A1/"/>
+      <category term="数序建模" scheme="http://techkeep.cn/tags/%E6%95%B0%E5%BA%8F%E5%BB%BA%E6%A8%A1/"/>
     
   </entry>
   

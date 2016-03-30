@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[博客转移公告]]></title>
-      <url>http://yoursite.com/2016/03/31/Transfer-blog-announcement/</url>
+      <url>http://techkeep.cn/2016/03/31/Transfer-blog-announcement/</url>
       <content type="html"><![CDATA[<p>想了想自己已经折腾了多个地方了，从最初的三蛋空间，再到后来的新浪云，再到阿里云，再到腾讯云，再到现在的GitHub Page。</p>
 <p>纠结于要不要备案，使用的域名是不是cn等等。</p>
 <p>最后，来到了GitHub。</p>
@@ -15,7 +15,7 @@
     
     <entry>
       <title><![CDATA[数学建模协会的分享]]></title>
-      <url>http://yoursite.com/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/</url>
+      <url>http://techkeep.cn/2015/11/07/%E6%95%B0%E6%A8%A1%E5%8D%8F%E4%BC%9A%E5%88%86%E4%BA%AB/</url>
       <content type="html"><![CDATA[<p><a href="http://techkeep.qiniudn.com/MMC.pdf" target="_blank" rel="external">全过程的讲义下载</a></p>
 <p>相关资源：<br><a href="http://book.douban.com/subject/5959958/" target="_blank" rel="external">数学模型 第四版</a><br><a href="http://v.163.com/special/cuvocw/lixingshijiao.html" target="_blank" rel="external">数学模型-现实世界的理性视角</a><br><a href="http://210.43.188.3:8080/html/guider/szzy.htm" target="_blank" rel="external">长沙理工大学可用数字资源列表</a><br><a href="http://book.douban.com/subject/7046813/" target="_blank" rel="external">精通MATLAB R2011a</a><br><a href="http://book.douban.com/subject/6052205/" target="_blank" rel="external">MATLAB在数学建模中的应用</a><br><a href="http://www.ituring.com.cn/book/1278" target="_blank" rel="external">编程导论</a><br><a href="https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6" target="_blank" rel="external">Introduction to Computer Science and Programming Using Python</a><br><a href="http://techkeep.qiniudn.com/本科生毕业设计论文样张.doc" target="_blank" rel="external">本科生毕业设计（论文）样张</a><br><a href="http://dsa.dayainfo.com/" target="_blank" rel="external">大雅相似度分析</a></p>
 <a id="more"></a>
@@ -24,7 +24,7 @@
     
     <entry>
       <title><![CDATA[Java 核心]]></title>
-      <url>http://yoursite.com/2015/05/08/Java%20%E6%A0%B8%E5%BF%83/</url>
+      <url>http://techkeep.cn/2015/05/08/core-java/</url>
       <content type="html"><![CDATA[<h4 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h4><ul>
 <li><p>List</p>
 <ul>
@@ -92,7 +92,7 @@
     
     <entry>
       <title><![CDATA[走走停停]]></title>
-      <url>http://yoursite.com/2015/03/20/%E8%B5%B0%E8%B5%B0%E5%81%9C%E5%81%9C/</url>
+      <url>http://techkeep.cn/2015/03/20/thinking/</url>
       <content type="html"><![CDATA[<p>已经很久都没有更新过博客了，之前一直想要写一篇长文章，后来就一直拖着。从年前一直拖到了过完了年，然后又拖到了下学期期末，最后过了暑假似乎都没有机会。这次，突然来机会了，因为突然一门课程需要写一份2000+字以上的未来的规划。哈哈，于是就当做博客文章来写吧。</p>
 <a id="more"></a>
 <h4 id="过去的大一"><a href="#过去的大一" class="headerlink" title="过去的大一"></a>过去的大一</h4><p>很快，真的很快，竟然两年的时间就已经过去了，似乎昨天还是大一的入学。8月的尾巴上面，四个愣头愣脑的家伙跑去无锡参赛，以决赛资格倒数第三名的身份跑过去，自己心里也没底，去之前和老罗差点都吵了起来，但是最后还是抱着没拿到奖就当做是旅游的态度去了。最后结果的国一确实有点意外。总是觉着生活的意外总是很多，但是和某人说的那样，并不是很难。项目中能够说的也多少，参赛的最大的感受就是行业最需要的就是创新，当然我们在做一个东西的时候，我们需要把东西做的就尽可能完美。</p>
@@ -113,7 +113,7 @@
     
     <entry>
       <title><![CDATA[Python Share]]></title>
-      <url>http://yoursite.com/2014/11/18/python-share/</url>
+      <url>http://techkeep.cn/2014/11/18/python-share/</url>
       <content type="html"><![CDATA[<p>本文主要针对零基础 想学习Python者。本文由网友  @史江歌（<a href="https://github.com/Yixiaohan/codeparkshare" target="_blank" rel="external">原项目 GitHub 地址</a>）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。</p>
 <a id="more"></a>
 <h3 id="一、学会使用搜索引擎，尤其是Google。推荐阅读文章："><a href="#一、学会使用搜索引擎，尤其是Google。推荐阅读文章：" class="headerlink" title="一、学会使用搜索引擎，尤其是Google。推荐阅读文章："></a>一、学会使用搜索引擎，尤其是Google。推荐阅读文章：</h3><ul>
@@ -170,7 +170,7 @@
     
     <entry>
       <title><![CDATA[Guide for Technical Development by Google]]></title>
-      <url>http://yoursite.com/2014/11/16/guide-for-technical-development/</url>
+      <url>http://techkeep.cn/2014/11/16/guide-for-technical-development/</url>
       <content type="html"><![CDATA[<p>Having a solid foundation in Computer Science is important in being a successful Software Engineer. This guide is a suggested path for University students to develop their technical skills academically and non-academically through self paced hands-on learning. You may use this guide to determine courses to take but please make sure you are taking courses required for your major or faculty in order to graduate. The online resources provided in this guide are not meant to replace courses available at your University. However, they may help supplement your learnings or provide an introduction to the topic.</p>
 <p>Using this guide:</p>
 <ul>
@@ -207,7 +207,7 @@
     
     <entry>
       <title><![CDATA[2013年电工杯感悟]]></title>
-      <url>http://yoursite.com/2013/12/28/2013%E5%B9%B4%E7%94%B5%E5%B7%A5%E6%9D%AF%E6%84%9F%E6%82%9F/</url>
+      <url>http://techkeep.cn/2013/12/28/2013%E5%B9%B4%E7%94%B5%E5%B7%A5%E6%9D%AF%E6%84%9F%E6%82%9F/</url>
       <content type="html"><![CDATA[<p>11月11日，晚上看到了这次电工杯的消息，本来不准备去的，因为这段时间貌似事情比较多，各种作业和各种活动，但在数模的集训群里看到说大一的就该这次去见识见识，涨经验，想了想，比较有道理，于是便开始想这次怎么准备。想起CS说他也在准备什么建模，于是回寝室时直接打电话去了。于是，一晚上都在想怎么搞，才能不至于三天随随便便打酱油就过去了，到处找别人的经验和一些感想。当时看完别人的经验后，对这次的比赛还是充满了信心。接着就在群里找队友，最后只找到一个。最终还是把报名表发了过去。</p>
 <a id="more"></a>
 <p>21日晚上11点，数学中国的那个群里就开始讨论题目了，好像是有人破解了赛题的密码。看了看，好像是真的。原来这次的题目是21日的晚上挂在了百度的网盘上（其实此处已经暗示了这次比赛有多么不正式），而题目word的文档，只是被加密了，于是题目自然而然的就被某些人直接破密了（这些组委会的人也太低估某些人的能力了）。于是群里接着就有人共享了以破解的赛题。我把消息发到集训群里，老师说这不能，不可能泄题的。接着有人直接贴出来淘宝上买题目的链接，再接着又有人在讨论A好像是11年的题目，再接着有人站出来说这题目是糊弄人的。看得眼花缭乱，于是直接睡觉去了。</p>
