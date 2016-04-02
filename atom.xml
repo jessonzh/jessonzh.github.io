@@ -68,17 +68,17 @@
     <link href="http://techkeep.cn/2015/05/08/core-java/"/>
     <id>http://techkeep.cn/2015/05/08/core-java/</id>
     <published>2015-05-08T09:42:01.000Z</published>
-    <updated>2016-03-30T19:56:03.656Z</updated>
+    <updated>2016-04-02T16:38:24.041Z</updated>
     
     <content type="html">&lt;h4 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;List&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ArrayList&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ArrayList&lt;/li&gt;
 &lt;li&gt;LinkList&lt;/li&gt;
 &lt;li&gt;SkipList&lt;/li&gt;
 &lt;li&gt;存储方式，如何扩展，分别适用在哪些方面&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;线程安全&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;线程安全&lt;ul&gt;
 &lt;li&gt;CopyOnWriteArrayList&lt;/li&gt;
 &lt;li&gt;Collections.synchronizedList(list)&lt;/li&gt;
 &lt;li&gt;Vector&lt;/li&gt;
@@ -88,7 +88,27 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;``` Java&lt;br&gt;    public class Test {&lt;br&gt;        public static void main(String[] args) {&lt;br&gt;        }&lt;br&gt;    }&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Employee {
+    private static String name;
+
+    static {
+        System.out.println(name);
+    }
+
+    public Employee(String name) {
+        this.name = name;
+    }
+
+    public boolean equals(Employee other) {
+        return name.equals(other.name);
+    }
+
+    public String getName() {
+        return this.name;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Map&lt;/p&gt;
 &lt;ul&gt;
@@ -138,13 +158,13 @@
     
       &lt;h4 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;List&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ArrayList&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ArrayList&lt;/li&gt;
 &lt;li&gt;LinkList&lt;/li&gt;
 &lt;li&gt;SkipList&lt;/li&gt;
 &lt;li&gt;存储方式，如何扩展，分别适用在哪些方面&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;线程安全&lt;/p&gt;
-&lt;ul&gt;
+&lt;li&gt;线程安全&lt;ul&gt;
 &lt;li&gt;CopyOnWriteArrayList&lt;/li&gt;
 &lt;li&gt;Collections.synchronizedList(list)&lt;/li&gt;
 &lt;li&gt;Vector&lt;/li&gt;
@@ -154,6 +174,27 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;``` Java&lt;br&gt;    public class Test {&lt;br&gt;        public static void main(String[] args) {&lt;br&gt;        }&lt;br&gt;    }&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;class Employee {
+    private static String name;
+
+    static {
+        System.out.println(name);
+    }
+
+    public Employee(String name) {
+        this.name = name;
+    }
+
+    public boolean equals(Employee other) {
+        return name.equals(other.name);
+    }
+
+    public String getName() {
+        return this.name;
+    }
+}
+&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     

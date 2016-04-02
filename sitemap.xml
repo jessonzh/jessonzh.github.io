@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://techkeep.cn/2015/05/08/core-java/</loc>
+    
+    <lastmod>2016-04-02T16:38:24.041Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://techkeep.cn/about/index.html</loc>
     
     <lastmod>2016-04-02T16:11:05.289Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://techkeep.cn/2015/03/20/thinking/</loc>
     
     <lastmod>2016-03-30T19:56:03.812Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://techkeep.cn/2015/05/08/core-java/</loc>
-    
-    <lastmod>2016-03-30T19:56:03.656Z</lastmod>
     
   </url>
   

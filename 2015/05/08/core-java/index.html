@@ -1,12 +1,12 @@
 <!DOCTYPE html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="X-UA-Compatible" content="IE=edge"><title> Java 核心 · JessonZH</title><meta name="description" content="Java 核心 - Jesson Zhou"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="short icon" href="/favicon.png"><link rel="stylesheet" href="/css/apollo.css"><link rel="stylesheet" href="http://fonts.useso.com/css?family=Source+Sans+Pro:400,600" type="text/css"></head><body><header><a href="/" class="logo-link"><img src="/favicon.png"></a><ul class="nav nav-list"><li class="nav-list-item"><a href="/" target="_self" class="nav-list-link">BLOG</a></li><li class="nav-list-item"><a href="/archives/" target="_self" class="nav-list-link">ARCHIVE</a></li><li class="nav-list-item"><a href="http://weibo.com/zhoujiebhdc" target="_blank" class="nav-list-link">WEIBO</a></li><li class="nav-list-item"><a href="https://github.com/jessonzh" target="_blank" class="nav-list-link">GITHUB</a></li><li class="nav-list-item"><a href="/about" target="_self" class="nav-list-link">ABOUT</a></li></ul></header><section class="container"><div class="post"><article class="post-block"><h1 class="post-title">Java 核心</h1><div class="post-time">2015年5月8日</div><div class="post-content"><h4 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h4><ul>
 <li><p>List</p>
+</li>
+<li><p>ArrayList</p>
 <ul>
-<li>ArrayList</li>
 <li>LinkList</li>
 <li>SkipList</li>
 <li>存储方式，如何扩展，分别适用在哪些方面</li>
-<li><p>线程安全</p>
-<ul>
+<li>线程安全<ul>
 <li>CopyOnWriteArrayList</li>
 <li>Collections.synchronizedList(list)</li>
 <li>Vector</li>
@@ -16,7 +16,27 @@
 </ul>
 </li>
 </ul>
-<a id="more"></a>
+<p>``` Java<br>    public class Test {<br>        public static void main(String[] args) {<br>        }<br>    }</p>
+<pre><code>class Employee {
+    private static String name;
+
+    static {
+        System.out.println(name);
+    }
+
+    public Employee(String name) {
+        this.name = name;
+    }
+
+    public boolean equals(Employee other) {
+        return name.equals(other.name);
+    }
+
+    public String getName() {
+        return this.name;
+    }
+}
+</code></pre><a id="more"></a>
 <ul>
 <li><p>Map</p>
 <ul>

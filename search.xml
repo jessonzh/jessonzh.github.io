@@ -27,13 +27,13 @@
       <url>http://techkeep.cn/2015/05/08/core-java/</url>
       <content type="html"><![CDATA[<h4 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h4><ul>
 <li><p>List</p>
+</li>
+<li><p>ArrayList</p>
 <ul>
-<li>ArrayList</li>
 <li>LinkList</li>
 <li>SkipList</li>
 <li>存储方式，如何扩展，分别适用在哪些方面</li>
-<li><p>线程安全</p>
-<ul>
+<li>线程安全<ul>
 <li>CopyOnWriteArrayList</li>
 <li>Collections.synchronizedList(list)</li>
 <li>Vector</li>
@@ -43,7 +43,27 @@
 </ul>
 </li>
 </ul>
-<a id="more"></a>
+<p>``` Java<br>    public class Test {<br>        public static void main(String[] args) {<br>        }<br>    }</p>
+<pre><code>class Employee {
+    private static String name;
+
+    static {
+        System.out.println(name);
+    }
+
+    public Employee(String name) {
+        this.name = name;
+    }
+
+    public boolean equals(Employee other) {
+        return name.equals(other.name);
+    }
+
+    public String getName() {
+        return this.name;
+    }
+}
+</code></pre><a id="more"></a>
 <ul>
 <li><p>Map</p>
 <ul>
