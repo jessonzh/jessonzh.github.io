@@ -68,7 +68,7 @@
     <link href="http://techkeep.cn/2015/05/08/core-java/"/>
     <id>http://techkeep.cn/2015/05/08/core-java/</id>
     <published>2015-05-08T09:42:01.000Z</published>
-    <updated>2016-04-02T16:38:24.041Z</updated>
+    <updated>2016-04-02T16:47:02.385Z</updated>
     
     <content type="html">&lt;h4 id=&quot;集合&quot;&gt;&lt;a href=&quot;#集合&quot; class=&quot;headerlink&quot; title=&quot;集合&quot;&gt;&lt;/a&gt;集合&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;List&lt;/p&gt;
@@ -88,27 +88,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;``` Java&lt;br&gt;    public class Test {&lt;br&gt;        public static void main(String[] args) {&lt;br&gt;        }&lt;br&gt;    }&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;class Employee {
-    private static String name;
-
-    static {
-        System.out.println(name);
-    }
-
-    public Employee(String name) {
-        this.name = name;
-    }
-
-    public boolean equals(Employee other) {
-        return name.equals(other.name);
-    }
-
-    public String getName() {
-        return this.name;
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Map&lt;/p&gt;
 &lt;ul&gt;
@@ -174,27 +154,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;``` Java&lt;br&gt;    public class Test {&lt;br&gt;        public static void main(String[] args) {&lt;br&gt;        }&lt;br&gt;    }&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;class Employee {
-    private static String name;
-
-    static {
-        System.out.println(name);
-    }
-
-    public Employee(String name) {
-        this.name = name;
-    }
-
-    public boolean equals(Employee other) {
-        return name.equals(other.name);
-    }
-
-    public String getName() {
-        return this.name;
-    }
-}
-&lt;/code&gt;&lt;/pre&gt;
     
     </summary>
     
