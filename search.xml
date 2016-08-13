@@ -237,11 +237,9 @@
 <ol>
 <li><p>Collection是一个接口，是高度抽象出来的集合，它包含了集合的基本操作和属性。</p>
 <p>Collection包含了List和Set两大分支。</p>
-<p>(01) List是一个有序的队列，每一个元素都有它的索引。第一个元素的索引值是0。</p>
-<pre><code>List的实现类有LinkedList, ArrayList, Vector, Stack。
-</code></pre><p>(02) Set是一个不允许有重复元素的集合。</p>
-<pre><code>Set的实现类有HastSet和TreeSet。HashSet依赖于HashMap，它实际上是通过HashMap实现的；TreeSet依赖于TreeMap，它实际上是通过TreeMap实现的。
-</code></pre></li>
+<p>(01) List是一个有序的队列，每一个元素都有它的索引。第一个元素的索引值是0。List的实现类有LinkedList, ArrayList, Vector, Stack。</p>
+<p>(02) Set是一个不允许有重复元素的集合。Set的实现类有HastSet和TreeSet。HashSet依赖于HashMap，它实际上是通过HashMap实现的；TreeSet依赖于TreeMap，它实际上是通过TreeMap实现的。</p>
+</li>
 <li><p>Map是一个映射接口，即key-value键值对。Map中的每一个元素包含“一个key”和“key对应的value”。</p>
 <p>AbstractMap是个抽象类，它实现了Map接口中的大部分API。而HashMap，TreeMap，WeakHashMap都是继承于AbstractMap。<br>Hashtable虽然继承于Dictionary，但它实现了Map接口。</p>
 </li>
