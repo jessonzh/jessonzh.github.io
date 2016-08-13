@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://techkeep.cn/"/>
-  <updated>2016-08-10T17:39:47.008Z</updated>
+  <updated>2016-08-13T02:32:26.680Z</updated>
   <id>http://techkeep.cn/</id>
   
   <author>
@@ -20,10 +20,12 @@
     <link href="http://techkeep.cn/2016/07/11/Java-%E9%9B%86%E5%90%88/"/>
     <id>http://techkeep.cn/2016/07/11/Java-集合/</id>
     <published>2016-07-10T17:36:21.000Z</published>
-    <updated>2016-08-10T17:39:47.008Z</updated>
+    <updated>2016-08-13T02:32:26.680Z</updated>
     
     <content type="html">&lt;p&gt;Java集合是java提供的工具包，包含了常用的数据结构：集合、链表、队列、栈、数组、映射等。Java集合工具包位置是java.util.*&lt;/p&gt;
-&lt;p&gt;Java集合主要可以划分为4个部分：List列表、Set集合、Map映射、工具类(Iterator迭代器、Enumeration枚举类、Arrays和Collections)。&lt;br&gt;Java集合工具包框架图(如下)：&lt;/p&gt;
+&lt;p&gt;Java集合主要可以划分为4个部分：List列表、Set集合、Map映射、工具类(Iterator迭代器、Enumeration枚举类、Arrays和Collections)。&lt;/p&gt;
+&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;Java集合工具包框架图(如下)：&lt;/p&gt;
 &lt;p&gt;大致说明：&lt;br&gt;看上面的框架图，先抓住它的主干，即Collection和Map。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Collection是一个接口，是高度抽象出来的集合，它包含了集合的基本操作和属性。Collection包含了List和Set两大分支。&lt;br&gt;(01) List是一个有序的队列，每一个元素都有它的索引。第一个元素的索引值是0。&lt;br&gt;List的实现类有LinkedList, ArrayList, Vector, Stack。&lt;br&gt;(02) Set是一个不允许有重复元素的集合。&lt;br&gt;Set的实现类有HastSet和TreeSet。HashSet依赖于HashMap，它实际上是通过HashMap实现的；TreeSet依赖于TreeMap，它实际上是通过TreeMap实现的。&lt;/p&gt;
@@ -39,7 +41,7 @@
     <summary type="html">
     
       &lt;p&gt;Java集合是java提供的工具包，包含了常用的数据结构：集合、链表、队列、栈、数组、映射等。Java集合工具包位置是java.util.*&lt;/p&gt;
-&lt;p&gt;Java集合主要可以划分为4个部分：List列表、Set集合、Map映射、工具类(Iterator迭代器、Enumer
+&lt;p&gt;Java集合主要可以划分为4个部分：List列表、Set集合、Map映射、工具类(Iterator迭代器、Enumeration枚举类、Arrays和Collections)。&lt;/p&gt;
     
     </summary>
     
